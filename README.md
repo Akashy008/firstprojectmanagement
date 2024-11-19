@@ -3,7 +3,7 @@ Introduction - Welcome to the Salon App. I am here to create a salon webpage whe
 
 Milestone-  
 Going to launch a basic Salon Booking System
-Going to create a functional booking system for the salon which alloe customer to book appointment and various more features.
+Going to create a functional booking system for the salon which allow customer to book appointment and various more features.
 
 1- Desgin nd User interface -- 
  this is our first task where we create a good looking and user-friendly interface for the app which include . Background desgin, homepage,navigation pages likr booking, review , salon near me, Barber's profile, 
@@ -24,3 +24,8 @@ we will allow user to pay for service through app .Adding payment gateways like 
 5- create a tutorial page and Detail service page
 we will create a tutorial video or page so customer can easily track everything on their own and full detail of every service provided by us.
   Due DAte -- 4 Days to complete this task
+
+
+
+how github help in project management----
+Using GitHub’s project management features, like milestones, issues, and project boards......can really help improve teamwork and keep projects organized. GitHub combines coding with project management, it makes tracking progress and addressing problems much easier.Milestones help break a project into clear stages, like in pieces so a team mate can easily track everything.. Issues are like a detailed to-do list where you can track bugs, tasks, or new features that need attention. You can assign tasks to team members, add labels to categorize them (like "bug" or "feature"), and set due dates. This makes it easy to see who’s responsible for what and how things are progressing.
